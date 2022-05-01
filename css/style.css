@@ -86,6 +86,9 @@ ul {
     margin-right: 0;
 }
 
+.feauters-list-item:nth-last-child(-n + 2){
+    margin-bottom: 60px;
+}
 
 .name-image{
     margin-bottom: 42px;
